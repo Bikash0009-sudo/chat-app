@@ -3,8 +3,8 @@ import http from "http";
 import cors from "cors";
 import dotenv from "dotenv";
 import { Server } from "socket.io";
-import oneToOneChat from "../backend/sockets/chat.js";
-import roomChat from "../backend/sockets/room.js"
+import oneToOneChat from ".sockets/chat.js";
+import roomChat from "./sockets/room.js"
 
 
 
