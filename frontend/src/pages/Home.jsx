@@ -62,7 +62,7 @@ function Home() {
 
               <span className="relative inline-flex items-center justify-center h-full w-full 
                 rounded-full bg-slate-900 px-8 text-white font-bold font-serif">
-                Create Room
+                Join Room
               </span>
 
             </button>
